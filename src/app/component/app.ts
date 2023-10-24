@@ -10,8 +10,8 @@ export class App {
   menu1url = '/';
   menu2 = 'Blog';
   menu2url = '/blog';
-  menu3 = 'Doc';
-  menu3url = 'https://astronot.web.app';
+  menu3 = 'Google';
+  menu3url = 'https://www.google.com.tr';
   menu4 = 'Pro';
   menu4url = 'https://astronot.axcora.com';
   built = 'built with';
